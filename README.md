@@ -15,6 +15,6 @@ Model dibangun menggunakan pendekatan transfer learning dengan arsitektur VGG16.
 | COVID-19  | 1.0       | 0.98   | 0.99     | 116     |
 | Normal    | 0.79      | 0.98   | 0.87     | 317     |
 | Pneumonia | 0.99      | 0.91   | 0.95     | 855     |
-| Akurasi   | 0.93                          | 1288    |
+| Akurasi   |           |        | 0.93     | 1288    |
 | Macro Avg. | 0.93     | 0.96   | 0.94     | 1288    |
 | Weighted Avg. | 0.94  | 0.93   | 0.93     | 1288    |
